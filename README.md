@@ -1,5 +1,8 @@
 ### Hello, I'm [Emmanuel] 👋
+
+![banner](images/am%20so%20glad%20to%20see%20you.png) <br>
 I'm a software developer with experience in Javascript, Node.js,React and Redux. I'm interested in Fullstack Web Development, and in my free time, In my free time, I enjoy hiking and reading about the latest technology trends. 👋
+
 
 📚 My Title: Full-Stack developer 🧰 <br>
 📚My Location: East Africa 🌍<br>
@@ -20,11 +23,6 @@ Project 1 Name - ![alt text](images/Screenshot%202023-02-09%20at%2021.00.32.png)
 
 
 Project 2 ![alt text](images/Screenshot%202023-02-09%20at%2021.01.07.png)
-
-
-🎨 Banner
-
-![banner](images/am%20so%20glad%20to%20see%20you.png)
 
 
 📬 Contact
