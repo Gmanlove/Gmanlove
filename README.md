@@ -19,10 +19,6 @@ Here are some of the projects I've worked on that are not hosted on GitHub:
 
 Project 1 Name - ![alt text](images/Screenshot%202023-02-09%20at%2021.00.32.png)
 
-
-Project 2 ![alt text](images/Screenshot%202023-02-09%20at%2021.01.07.png)
-
-
 📈 GitHub Stats
 [Add live updating statistics about your contributions to projects on GitHub here.] https://img.shields.io/github/actions/workflow/status/Gmanlove/Gmanlove/Readme.md
 
