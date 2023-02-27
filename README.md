@@ -1,6 +1,17 @@
 ### Hello, I'm [Emmanuel] 👋
 I'm a software developer with experience in Javascript, Node.js,React and Redux. I'm interested in Fullstack Web Development, and in my free time, In my free time, I enjoy hiking and reading about the latest technology trends. 👋
 
+📚 My Title: Full-Stack developer 🧰
+📚My Location: East Africa 🌍
+🤝 I’m available for freelancing.💸💰
+✨ Creating bugs since 2019🙄
+📚 I'm currently honing my skills 🍧
+🎯 Goals: To be recognized as Hacker for humanity 👌🏼
+📫 How to reach me, Send me Email📧
+🔗 Know about my experiences Linked
+🎲 Fun fact: I'm funny 🤣
+
+
 🔗 Projects
 
 Here are some of the projects I've worked on that are not hosted on GitHub:
