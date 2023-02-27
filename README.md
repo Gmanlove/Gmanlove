@@ -12,11 +12,9 @@ Project 2 ![alt text](images/Screenshot%202023-02-09%20at%2021.01.07.png)
 
 
 🎨 Banner
+
 ![banner](images/am%20so%20glad%20to%20see%20you.png)
 
-
-📈 GitHub Stats
-[Add live updating statistics about your contributions to projects on GitHub here.] https://img.shields.io/github/actions/workflow/status/Gmanlove/Gmanlove/Readme.md
 
 📬 Contact
 You can reach me at your emmagmanc@gmail.com or connect with me on LinkedIn on https://www.linkedin.com/in/emmanuel-obi-6a796475/.
