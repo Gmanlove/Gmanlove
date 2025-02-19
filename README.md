@@ -1,7 +1,7 @@
 ### Hello, I'm [Emmanuel] 👋
 
 ![banner](images/am%20so%20glad%20to%20see%20you.png)<br>
-I'm a software developer with experience in JavaScript, Node.js,React and Redux. I'm interested in Fullstack Web Development, and in my free time, I enjoy hiking and reading about the latest technology trends. 👋
+I'm a software developer with experience in JavaScript, Ruby on Rail, Node.js,React and Redux. I'm interested in Fullstack Web Development, and in my free time, I enjoy hiking and reading about the latest technology trends. 👋
 
 
 
